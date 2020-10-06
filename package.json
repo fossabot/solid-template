@@ -1,0 +1,22 @@
+{
+	"name": "TODO",
+	"version": "0.0.1",
+	"description": "TODO",
+	"scripts": {
+		"build": "solid-scripts build",
+		"start": "solid-scripts start",
+		"test": "solid-scripts test"
+	},
+	"browserslist": [
+		"Chrome 74",
+		"Firefox 63",
+		"Safari 11",
+		"Edge 17",
+		"Node 10"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"solid-js": "0.20.2",
+		"solid-scripts": "0.0.41"
+	}
+}
